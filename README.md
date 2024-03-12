@@ -1,4 +1,4 @@
-# IncreaseClicker
+# IncreaseClicker (iOS)
 Click and Increase
 
 ### How to Use:
